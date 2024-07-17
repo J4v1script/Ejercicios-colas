@@ -4,19 +4,7 @@ Sin embargo, llegada la hora de inicio hay muchos “colados”,
 es por esto que se le ordena al vigilante que retire a todos aquellos que no tienen ticket. 
 Muestra la cola inicial, qué elementos fueron retirados de la cola y la cola final.
 Sugerencia: desencolar cada elemento, si tiene el ticket se vuelve a encolar, si no se retira.
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
+
 Cola: [ 
             { user:‘User1’, ticket:true },
             { user:‘User2’, ticket:true },
